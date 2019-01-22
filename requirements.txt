@@ -1,0 +1,25 @@
+geopy
+graphviz
+joblib
+jupyter
+matplotlib
+mlxtend
+nose
+notebook==5.6.0
+numpy
+opencv-python >= 3.4
+pandas
+pillow
+plotly
+pydot
+pydotplus
+pyyaml
+scikit-learn
+scipy
+seaborn
+statsmodels
+tqdm
+ua-parser
+ujson
+user-agents
+watermark
